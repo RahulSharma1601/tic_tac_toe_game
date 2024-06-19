@@ -32,10 +32,28 @@ body{
     background-color: yellow;
 
 }
-#reset{
+#reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: green;
     color: white;
     border-radius: 0.5rem;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: green;
+    color: white;
+    border-radius: 0.5rem;
+
+}
+#msg{
+    color: green;
+    font-size: 5vmin;
+}
+.msg-container{
+    height: 30vmin;
+}
+.hide{
+    display: none;
 }
